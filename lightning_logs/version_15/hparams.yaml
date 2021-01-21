@@ -1,0 +1,8 @@
+cached: false
+dropout: 0.8
+groups: 16
+heads: 8
+hidden_channels: 128
+num_classes: 7
+num_features: 1433
+num_layers: 2
